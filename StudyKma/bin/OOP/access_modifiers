@@ -1,0 +1,9 @@
+Cos 4 loai quyen truy cap (access modifiers):
+	+ private: chi cho phep truy cap ben trong class do. 
+				Dung truoc ten bien hoac methods (hep nhat).
+	+ default (khong dung tu gi): cung package thi nhin thay
+				nguoc lai thi khong the truy cap.
+	+ protected: giong voi default, nhung chi dung cho cac lop
+				ke thua co the truy cap
+	+ public: tat ca deu co the truy cap.
+	
